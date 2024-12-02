@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Network Data Analysis Framework.<br>👯 I’m looking to collaborate on Low level programming, Machine Learning & Web dev.<br>🤝 I’m looking for help with the framework I'm currently working on.<br>🌱 I’m currently learning about kernel development<br>💬 Ask me about Python, ML, PyQt & Network Science.<br>⚡ Fun fact I love cooking, working out & reading. 
+🔭 I’m currently working on a Network Data Analysis Framework.<br>👯 I’m looking to collaborate on Low level programming, Machine Learning & Web dev.<br>🤝 I’m looking for help with the framework I'm currently working on.<br>🌱 I’m currently learning about statistical learning<br>💬 Ask me about Python, ML, PyQt & Network Science.<br>⚡ Fun fact I love cooking, working out & reading. 
 
 
 ## 🌐 Socials:
